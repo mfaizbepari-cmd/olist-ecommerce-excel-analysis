@@ -1,0 +1,17 @@
+# Excel temporary/lock files
+~$*.xlsx
+~$*.xls
+*.tmp
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Power Query / Excel temporary exports
+*.bak
+
+# Local-only files
+.env
+
+# Raw Olist dataset
+data/raw/
